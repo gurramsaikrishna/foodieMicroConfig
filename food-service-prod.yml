@@ -2,9 +2,9 @@ server:
   port: 9098
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/jb2404
+    url: jdbc:mysql://localhost:3306/foodservicedb
     username: root
-    password: root1234
+    password: Springboot123#
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
